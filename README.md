@@ -9,7 +9,7 @@
 iOS Screenshot
 [Support drag gestures, long press gestures (see details), knead gestures (zoom in)]
 
-![OKKLineSwift](https://github.com/Herb-Sun/OKKLineSwift/blob/master/Screenshot/OKKLineSwift-iOS.gif) 
+![OKKLineSwift](http://img.swift51.com/upimg/201612/1483112397822_56.gif) 
 
 macOS Screenshot
 [Support drag events, crosshairs follow, mouse scrolling events (zoom in)]
